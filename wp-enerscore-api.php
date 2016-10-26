@@ -12,7 +12,7 @@ if ( ! defined( 'ABSPATH' ) ) { exit; }
 if ( ! class_exists( 'EnerscoreAPI' ) ) {
 
 	/**
-	 * CodeClimateAPI class.
+	 * EnerscoreAPI class.
 	 */
 	class EnerscoreAPI {
 
