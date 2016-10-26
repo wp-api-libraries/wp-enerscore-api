@@ -5,6 +5,17 @@
  * @package WP-Enerscore-API
  */
 
+/*
+Plugin Name: WP Enerscore API
+Plugin URI: https://github.com/wp-api-libraries/wp-enerscore-api
+Description: Perform API requests to enerscore.com in WordPress.
+Author: imFORZA
+Version: 1.0.0
+Author URI: https://www.imforza.com
+GitHub Plugin URI: https://github.com/wp-api-libraries/wp-enerscore-api
+GitHub Branch: master
+*/
+
 /* Exit if accessed directly */
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
