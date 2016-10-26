@@ -57,7 +57,7 @@ if ( ! class_exists( 'EnerscoreAPI' ) ) {
 
 
 		/**
-		 * get_enerscore function.
+		 * Get Energy Score for Address.
 		 *
 		 * @access public
 		 * @param mixed $address Address.
